@@ -2,7 +2,7 @@
   "name": "exercise",
   "version": "0.0.1",
   "description": "Introduction to NodeJS",
-  "main": "y",
+  "main": "",
   "scripts": {
     "test": "node index.js"
   },
